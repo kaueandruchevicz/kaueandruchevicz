@@ -1,8 +1,10 @@
 ### bem vindas ao meu perfil
 
-meu nome é kaue andruchevicz 
+# Sobre Mim
+- 😄 Meu nome e [kaue do rosario]
+-  🌎 Moro em [paranaguá]
+-  🧑🏻 sou um entusiasta da tecnologia a desenvolvedor de software
+-  ✍️ Estudo no colegio [helena Viana Sundin]
 
-- Estou Estudando no Alura
-- Estou me desenvolvendo na linguagem javaScript
-- 
-
+-  # Meus Projetos
+-[Pong] (https://scratch.mit.edu/projects/861931018/editor/) jogo do pong 
